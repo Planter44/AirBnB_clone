@@ -1,3 +1,3 @@
 ## DESCRIPTION
 
-Alx, AirBnB_clone Web-Static.
+Alx, AirBnB_clone Web-Static
